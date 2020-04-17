@@ -1,0 +1,74 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ic_background121"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <TextView
+        android:id="@+id/welcometv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/welcome"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/welcometexttv"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="25dp"
+        android:text="@string/welcometext"
+       
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+   <Button
+        android:id="@+id/schocri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:text="@string/schotitle"
+        android:drawableStart="@drawable/sch"
+        android:textColor="#FFFFFF"
+        android:padding="13dp"  />
+    <Button
+        android:id="@+id/reqper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:text="@string/title_activity_required_percentage"
+         android:drawableStart="@drawable/req"
+        android:textColor="#FFFFFF"
+         android:padding="13dp"  />
+    <Button
+        android:id="@+id/rankingid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:text="@string/ranking"
+         android:drawableStart="@drawable/ranking"
+        android:textColor="#FFFFFF" 
+         android:padding="13dp" />
+    <Button
+        android:id="@+id/adcri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center"
+        android:text="@string/admissioncri"
+         android:drawableStart="@drawable/adm"
+        android:textColor="#FFFFFF"
+         android:padding="13dp"  />
+    <Button
+        android:id="@+id/next"
+         style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:text="@string/next"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Future Advisor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="visit">Visit Universities&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="enterinfo">&#160;Enter Your Information</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcometext">Selection of good institution plays an important role in achieving best career.Choes any option to get information about Admission related queries.This is HEC defined information. OR For our Suggestion to chose best institute for further Studies Press &quot;NEXT&quot; </string>
+    <string name="next">NEXT</string>
+    <string name="enterinfopage">Enter Your percentage and programme. Future Advisor will suggest you universities in which you are capable to Apply.</string>
+    <string name="note">NOTE:&#160;&#160;&#160;Minimum Marks Required By HEC Are 60 Percent We Will Only Suggest You Which Institute Is Better For According To Provided Information</string>
+    <string name="programe">Enter Program:</string>
+    <string name="percentage">Enter Percentage</string>
+    <string name="aboutus">About Us</string>
+    <string name="aboutustext">Students after passing intermediate are always very keen for their future. They always want to join a best institute for their further education.We are trying to help them in their future decision of university selection. We will provide information about all universities in Lahore. This app will include that which program is being offered and eligible for the student to apply for according to his/her obtained marks or percentage.</string>
+    <string name="hometv">Home</string>
+    <string name="help">Help</string>
+    <string name="helptext">This process require two inputs.Your programm in which you want to get admission and your obtained percentage in Intermediate.You have to provide this information in given space.This will lead you to list of universities according to provided data</string>
+    <string name="search">Search</string>
+    <string name="ranking">HEC Ranking &#160;  &#160;  &#160; &#160;  &#160;  &#160;&#160;  &#160;</string>
+    <string name="rankingtext">You can check HEC Ranking of universities from following link</string>
+    <string name="exit">Exit</string>
+    <string name="rankingbtn">HEC Ranking</string>
+    <string name="ranklink"><a href="http://www.hec.gov.pk/english/universities/pages/rank.aspx">Ranking</a></string>
+    <string name="admissioncri">Admission Criteria&#160;  &#160;&#160;</string>
+    <string name="admissionheading">HEC Requirements</string>
+    <string name="adsndhd">Local Body Requirement</string>
+    <string name="admissioncritext">The verification of the antecedents of an applicant (student),particulars of the degree and program of studies, course contents, period of study abroad and the accredited status of the institution are the main components of validation process for equivalence of qualifications. Before granting any equivalence, the Higher Education Commission/HEC has to ensure the antecedents of the applicant, degree programs and credibility of the institution granting the degree. In order to verify the accredited status of a foreign university particularly in the private sector, main areas on which the information is required by the Higher Education Commission/HEC are: the date of establishment, charter granting body, legal status, name of the authority granting accreditation, funding source, administrative and academic structure, admission criteria, arrangements for maintaining academic standards of courses, course validation and review system, faculty/staff, degree programs, student enrolment, examination and assessment, quality assurance system and student supervision and proof of world-wide recognition.</string>
+    <string name="admissioncritext2">Candidates having non-mathematics background in HSSC or equivalent examination must study a 3 credit hours deficiency mathematics course in the first semester. The credit hours of a deficiency mathematics course will not be counted towards the degree completion.</string>
+    <string name="adsndhd1">Intermediate, FA / F.Sc / ICS / I.Com, A-Levels, DAE or equivalent (Minimum 50% marks)</string>
+    <string name="scholorhd">HEC Eligibility Criteria </string>
+    <string name="scholortext"> •&#160;Financial assistance and scholarships are available for study at undergraduate and graduate level in the prescribed disciplines at the selected Pakistani universities and degree awarding institutions.\n •&#160; 
+   
+ Students need to compete for securing admission in the approved discipline at the participating institution as per admission policy of the institution and be enrolled in Undergraduate (4 Years) / Graduate (2 Years) programs.\n •&#160;
+ 
+ Only those students who are enrolled in first professional year in the respective courses offered by the participating institutions are eligible to apply.\n •&#160;
+
+ The eligibility of a candidate is linked to neediness of the candidate as determined and assessed by the financial background of his/her family.</string>
+    <string name="scholorhd1">Local Body Criteria</string>
+    <string name="scholortext1">Local bodies offering scholorships vary university
+       to unversity in Lahore but most common criteria is \n <b>Scholarship on the basis of Intermediate</b>\n •&#160;
+Top Ten Position holders in BISE Examination:  Total tuition-fee waiver.\n•&#160;
+85% or above marks in BISE Examination: 75% tuition fee waiver.\n•&#160;
+80%-84.99% marks in BISE Examination: 50% tuition fee waiver.\n•&#160;
+75%-79.99% marks in BISE Examination: 25% tuition fee waiver.\n•&#160;
+70%-74.99% marks in BISE Examination: 20% tuition fee waiver.\n
+ Scholarship on the basis of A-levels \n
+	Three As in A-Level: 50% tuition fee waiver.\n•&#160;
+Two As in A-Level: 30% tuition fee waiver.</string>
+    <string name="schotitle">Scholorship Criteria</string>
+    <string name="reqper">  A candidate seeking admission in an Engineering Institution or University for working towards Bachelor’s Degree in any recognized branch of Engineering must fulfill the following minimum requirements:\n \n•&#160;  
+ He or she has passed the Higher Secondary School Certificate HSC or HSS Pre-Engineering Examination with Physics, Chemistry and Mathematics, securing at least 60% marks in aggregate of a University, a Board of Intermediate or Board of Intermediate and Secondary Education in Pakistan.\n In addition, a combination of Physics, Mathematics and Computer Studies or Computer Science may be allowed for admissions in all    Computer related Engineering Programmes, Electronics, Telecommunications and Avionics Engineering Programmes:\n\n
+Provided that any candidate who has been admitted in an Engineering Institution or University for working towards Bachelor’s degree in any recognized branch of engineering before the 6th June, 2003, and does not fulfill the above specified minimum requirements for such admission, shall be considered for registration by the Pakistan Engineering Council:\n\n•&#160;
+
+   A candidate seeking admission should possess adequate mental and physical health to be able to obtain engineering education as prescribed and necessary steps should be taken by University/ Institution to ensure this provision on admission of students.</string>
+    <string name="optiostext">Chose where you want to proceed further</string>
+
+    <string name="options"> 
+         \n&#160;
+        Students after passing intermediate exam are always very keen for their future. They always want to join the best institute for their further education and career
+        \n&#160;\n&#160; \n&#160;
+        •&#160; To Visit Web Pages Of All Universities Press VISIT UNIVERSITIES Botton
+        \n&#160;
+       \n•&#160; To Take Our Suggestions Press ENTER IMFORMATION Button
+         \n&#160;\n&#160;
+        </string>
+
+    <string name="title_activity_main_activity1">Enter Information</string>
+    <string name="title_activity_main_activity2">Visit Page</string>
+    <string name="singlrow">single_row</string>
+    <string name="title_activity_aboutus">Aboutus</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_ranking">Ranking</string>
+    <string name="title_activity_admission_criteria">Admission Criteria</string>
+    <string name="title_activity_scholorship_criteria">Scholorship Criteria</string>
+    <string name="title_activity_required_percentage">Required Percentage</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_web_view">HEC Ranking</string>
+    <string name="title_activity_myweb">HEC Ranking</string>
+    <string name="title_activity_android_list_view">Universities</string>
+    <string name="title_activity_listwebview">Selected University</string>
+     <string name="title_activity_listitems">ALL Universities</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="myfyp.pkg.futureadvisor.Options" >
+
+     <item
+        android:id="@+id/homeid"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/hometv"/>
+    
+    <item
+        android:id="@+id/aboutusid"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/aboutus"/>
+    
+    <item
+        android:id="@+id/helpid"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/help"/>
+    
+    <item
+        android:id="@+id/exitid"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/exit"/>
+
+</menu>

@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ic_background121"
+    android:orientation="vertical"
+    android:padding="20dp"
+     >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/enterinfopage"
+        android:textAppearance="@android:attr/textAlignment"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/note"
+        android:textAppearance="@android:attr/textAlignment"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+     <TextView
+        android:id="@+id/programe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/programe"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" 
+          android:labelFor="@+id/editText2"/>
+  <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="173dp"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" 
+        android:layout_gravity="center_horizontal|center" />
+
+    <TextView
+        android:id="@+id/percentage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="@string/percentage"
+        
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" 
+          android:labelFor="@+id/editText1"/>
+
+   <NumberPicker
+        android:id="@+id/np"
+        android:layout_width="173dp"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" 
+        android:layout_gravity="center_horizontal|center"
+        />
+
+    <Button
+        android:id="@+id/search"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:textColor="#FFFFFF"
+        android:text="@string/search" />
+
+</LinearLayout>

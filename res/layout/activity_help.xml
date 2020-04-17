@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/ic_background121"
+    android:orientation="vertical"
+    android:padding="30dp" >
+
+  <TextView
+        android:id="@+id/help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:text="@string/help"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold" />
+
+   <TextView
+       android:id="@+id/helptv"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingBottom="20dp"
+       android:text="@string/helptext"
+       android:textAppearance="?android:attr/textAppearanceLarge"
+       android:textColor="#FFFFFF"
+       android:textStyle="bold" />
+
+</LinearLayout>
