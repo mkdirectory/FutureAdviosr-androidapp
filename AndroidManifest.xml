@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="myfyp.pkg.futureadvisor"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Add Enter Information Activity -->
+        <activity
+            android:name=".Enter_Info_Activity"
+            android:label="@string/title_activity_main_activity1" >
+        </activity>
+
+        <!-- Add Visit Page Activity -->
+        <activity
+            android:name=".Visit_Page_Activity"
+            android:label="@string/title_activity_main_activity2" >
+        </activity>
+
+        <!-- Add Single Row Activity -->
+        <activity
+            android:name=".single_row"
+            android:label="@string/singlrow" >
+        </activity>
+
+        <!-- Add About Us Activity -->
+        <activity
+            android:name=".Aboutus_Activity"
+            android:label="@string/title_activity_aboutus" >
+        </activity>
+
+        <!-- Add Help Activity -->
+        <activity
+            android:name=".Help_Activity"
+            android:label="@string/title_activity_help" >
+        </activity>
+
+        <!-- Add Ranking Activity -->
+        <activity
+            android:name=".Ranking_Activity"
+            android:label="@string/title_activity_ranking" >
+        </activity>
+        <activity
+            android:name=".AdmissionCriteria"
+            android:label="@string/title_activity_admission_criteria" >
+        </activity>
+        <activity
+            android:name=".ScholorshipCriteria"
+            android:label="@string/title_activity_scholorship_criteria" >
+        </activity>
+        <activity
+            android:name=".RequiredPercentage"
+            android:label="@string/title_activity_required_percentage" >
+        </activity>
+        <activity
+            android:name=".Options"
+            android:label="@string/title_activity_options" >
+        </activity>
+        <activity
+            android:name=".WebView"
+            android:label="@string/title_activity_web_view" >
+        </activity>
+        <activity
+            android:name=".Myweb"
+            android:label="@string/title_activity_myweb" >
+        </activity>
+        <activity
+            android:name=".AndroidListViewActivity"
+            android:label="@string/title_activity_android_list_view" >
+        </activity>
+        <activity
+            android:name=".List_item"
+            android:label="@string/title_activity_listitems" >
+        </activity>
+        <activity
+            android:name=".List_item1"
+            android:label="Suggested Universities" >
+        </activity>
+        <activity
+            android:name=".Listwebview"
+            android:label="@string/title_activity_listwebview" >
+        </activity>
+        
+    </application>
+
+</manifest>
